@@ -1,0 +1,2 @@
+# botpy
+Simple binance bot 
